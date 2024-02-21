@@ -1,6 +1,6 @@
 Hi, I’m @tph5595
 
-I’m currently researching topological data analysis and its applications in cyber security and mahcine learning at large for my PhD
+I’m currently researching topological data analysis for in cyber security and privacy for my PhD.
 
 Feel free to get in contact if you would like to connect!
 
